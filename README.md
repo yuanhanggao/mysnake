@@ -1,2 +1,2 @@
 # mysnake
-just for fun although the codes really sucks! 
+just for fun although the code really sucks! 
